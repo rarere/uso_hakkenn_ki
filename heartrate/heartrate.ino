@@ -1,3 +1,7 @@
+/*
+ * ST7032 - Arduino LiquidCrystal compatible library
+ * http://ore-kb.net/archives/195
+ */
 #include <Wire.h>
 #include <ST7032.h>
 
